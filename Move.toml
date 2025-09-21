@@ -1,0 +1,17 @@
+[package]
+name = "aptos-fullstac"
+version = "1.0.0"
+authors = []
+
+[addresses]
+YOURADDRESS="0xdea173ed001a4c1863d35ea52bd1cc60fa5459f8199b841c94835a6b53129274"
+
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
