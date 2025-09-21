@@ -24,5 +24,6 @@ aptos-avatar-system/
 ├── index.html # Main DApp frontend (avatar actions)
 ├── style.css # (optional) extracted styling
 ├── README.md # Project documentation
-<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/f3d6069b-95b4-4848-a2e2-53e3d8cd927c" />
+<img width="1198" height="905" alt="image" src="https://github.com/user-attachments/assets/51943dd2-ab35-4285-903a-866ab307075e" />
+
 
